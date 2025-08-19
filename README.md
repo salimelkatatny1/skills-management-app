@@ -15,11 +15,6 @@ It was developed as part of my learning journey with the **Digital Egypt Pioneer
 
 ---
 
-## 📽️ Demo
-👉 Here is a short demo of the application in action (add a link or upload a GIF/video).
-
----
-
 ## 🏗️ Tech Stack
 - **Python** (core language)  
 - **SQLite** (database)  
